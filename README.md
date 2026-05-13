@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nongor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Nongor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nongor/) |
+| **Get License** | [Get a Licensing Quote for Nongor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nongor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> উষ্ণ তোমার ওই ছোঁয়ায় আটকে গেছি আমি.. আটকে গেছি আমি..
+> আমার এই পৃথিবীতে তুমি যে ভীষণ দামি
+> হারিয়েছি নিজেকে ওই চোখের গভীরে.. চোখের গভীরে..
+> খুঁজে পাই আমি যেন অদেখা এক তীরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
