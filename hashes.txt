@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nongor
+
+This log tracks the cryptographic history and versioning for the song **Nongor** (nongor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T09:08:40.664302 | `v1` | `a9f6f63ae827c6891ecadfc0552141603cbdff93622d07b69c880dd336395539` | `756e5bade275477e29c61270eaa3b1113ba12519277d041a4826380ccae019e4` | `2026-05-13_nongor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
